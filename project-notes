@@ -1,0 +1,13 @@
+the data-* attribute is used to store custom data privat eto the page or application
+
+the data-* attribute givs us the ability to embed custom data attributes on all HTML elements
+
+the stored custom data can then be used in the page's Javascript to create a more engaging user experience 
+
+DO NOT USE UPPERCASE in data attribute
+
+it can be any string 
+
+use the data attribute to embed custom data
+
+
