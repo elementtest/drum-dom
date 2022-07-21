@@ -1,3 +1,5 @@
+DATA ATTRIBUTE NOTES
+
 the data-* attribute is used to store custom data privat eto the page or application
 
 the data-* attribute givs us the ability to embed custom data attributes on all HTML elements
@@ -10,4 +12,8 @@ it can be any string
 
 use the data attribute to embed custom data
 
+PROJECT NOTES
 
+window.addEventListener('keydown', function(e) {
+	console.log(e.keyCode);
+)};
