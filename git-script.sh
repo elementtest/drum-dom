@@ -1,4 +1,3 @@
-
 #!/bin/bash
 #adds all files in folder to github elementtest7@gmail.com
 git add *
